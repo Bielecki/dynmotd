@@ -1,6 +1,9 @@
 # dynmotd
 DynMOTD is a powerful shell program for dynamic downloading informations about server and user who is connecting into it and displaying it as a fancy table. It is based on Parker Samp dynmotd (whose page and version was deleted, but still available on http://unixlikeos.ru/lib/exe/fetch.php/gnulinux/howto_dynamic_motd_linux.pdf). 
+
 Due to massive changes (from about 30 to over 500 lines of code) I decided to not publish my source code.
+
+<strong>DynMOTD is written for bash, I don't guarantee working in other shells!</strong>
 
 # Changelog
       v0.3.1  
