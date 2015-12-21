@@ -3,9 +3,17 @@ DynMOTD is a powerful shell program for dynamic downloading informations about s
 
 Due to massive changes (from about 30 to over 500 lines of code) I decided to not publish my source code.
 
-<strong>DynMOTD is written for bash, I don't guarantee working in other shells!</strong>
+<strong>DynMOTD is compiled for bash on 64-bit Debian 8, I don't guarantee working in other shells and/or OS!</strong>
 
 # Changelog
+      v0.4.0
+    Multilanguage Colorful Update!
+    Introduced language file,
+    user can now change DynMOTD frame character,
+    user can change colors of specific fragments of DynMOTD,
+    some bugfixes,
+    greatly improved manpage
+    
       v0.3.1  
     DynMOTD can now install himself into system,
     some fixes,
