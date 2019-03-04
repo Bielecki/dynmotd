@@ -28,7 +28,7 @@ DynMOTD is a powerful shell program for dynamic downloading informations about s
     
       v0.2.4
     simplified changing to alternative memory reading
-    
+    Added timeout to curl, fixed changing colors in --config
       v0.2.3
     alternative total memory reading added,
     fixed Figlet params,
@@ -53,5 +53,5 @@ DynMOTD is a powerful shell program for dynamic downloading informations about s
     introduced reading infos from system - dynmotd is real dynamic now
     
       v0.0.1 
-    original Parker Samp dynmotd. His page and version was deleted, but you can see it on http://unixlikeos.ru/lib/exe/fetch.php/gnulinux/howto_dynamic_motd_linux.pdf
+    original Parker Samp dynmotd. Unfortunately hAdded timeout to curl, fixed changing colors in --configis page and version was deleted.
 
